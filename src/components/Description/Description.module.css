@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    /* padding: 88px 88px 20px; */
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.headerH1 {
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.headerP {
+    color: black;
+}
